@@ -5,6 +5,8 @@
 <?php
 
 // a href works fine when there's only one & in the url but when there two & in the url there comes the urlencode in php
+//html specialchars(anme of the var that you want to send )
 ?>
 </body>
 </html>
+
